@@ -10,7 +10,7 @@ app.use(cors());
 app.use(express.json()); 
 
 // Connect to your MongoDB database (replace with your database URL) 
-mongoose.connect("mongodb://127.0.0.1/todo"); 
+mongoose.connect("mongodb+srv://myAtlasDBUser:tikitaka@myatlasclusteredu.1ap2k6d.mongodb.net/todo"); 
 
 // Check for database connection errors 
 mongoose.connection.on("error", (error) => { 
