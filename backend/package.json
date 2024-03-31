@@ -1,12 +1,12 @@
 {
-  "name": "todolist-kirtan",
+  "name": "todolist-harsh",
   "version": "1.0.0",
   "description": "Todo list using MERN",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Kirtan Lokadiya",
+  "author": "Harsh Dhandha",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
